@@ -1,0 +1,102 @@
+body
+{
+    background-color: #000000;
+    margin:0px;
+}
+
+#login_upper
+{
+    background-color: #bc1d1d;
+    height: 200px;
+    text-align: center;
+    padding-top:20px;
+}
+
+#login_mid
+{
+    height:99px;
+    background-image: url("../images/upper_back.jpg");
+    background-repeat: repeat-x;
+}
+
+.notes
+{
+    font-weight: bold;
+    color: #000000;
+}
+
+.login_button
+{
+    width: 80%;
+    background-color: #bc1d1d;
+    height: 30px;
+    line-height: 30px;
+    border-bottom-color: #000000;
+    border-bottom-style: none;
+    border-width: 1px;
+    color:#ffffff;
+    font-weight: bold;
+}
+
+.login_input
+{
+    width: 80%;
+}
+
+#login_form
+{
+    text-align: center;
+    color: #ffffff;
+}
+
+#login_buttom
+{
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.register_input
+{
+    width: 80%;
+}
+
+#register_OK
+{
+    width: 40%;
+    background-color: #bc1d1d;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    border-bottom-color: #000000;
+    border-bottom-style: none;
+    border-width: 1px;
+}
+#register_back
+{
+    width: 40%;
+    background-color: #bc1d1d;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    border-bottom-color: #000000;
+    border-bottom-style: none;
+    border-width: 1px;
+}
+
+#register_form
+{
+    margin: auto;
+    color: #ffffff;
+}
+
+#register_mid
+{
+    background-image: url("../images/register_mid.jpg");
+    background-repeat: repeat-x;
+    height: 31px;
+}

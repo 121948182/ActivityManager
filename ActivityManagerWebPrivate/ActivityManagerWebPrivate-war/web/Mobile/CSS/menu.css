@@ -1,0 +1,28 @@
+body
+{
+    background-color: #000000;
+    margin:0px;
+}
+
+#menu_upper
+{
+    background-color: #bc1d1d;
+    height: 120px;
+    text-align: center;
+    padding-top:5px;
+}
+
+#menu_mid
+{
+    height:99px;
+    background-image: url("../images/upper_back.jpg");
+    background-repeat: repeat-x;
+}
+
+.menu_items
+{
+    text-align: right;
+    font-size:xx-large;
+    padding-right: 20px;
+    color: #ffffff;
+}
